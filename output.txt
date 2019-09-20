@@ -1,0 +1,31 @@
+JAV001 Parked in spot 1
+JAV002 Parked in spot 2
+JAV003 Parked in spot 3
+JAV004 Parked in spot 4
+JAV005 Parked in spot 5
+JAV001 Departed from spot 1, vehicle was moved 0 times.
+JAV004 Departed from spot 3, vehicle was moved 0 times.
+JAV006 Parked in spot 4
+JAV007 Parked in spot 5
+JAV008 Parked in spot 6
+JAV009 Parked in spot 7
+JAV010 Parked in spot 8
+JAV011 Parked in spot 9
+JAV012 Parked in spot 10
+No space available in FIU garage for JAV013
+No space available in FIU garage for JAV015
+JAV006 Departed from spot 4, vehicle was moved 0 times.
+JAV015 Cannot depart beacause it was never parked in FIU garage.
+JAV013 Cannot depart beacause it was never parked in FIU garage.
+JAV005 Departed from spot 3, vehicle was moved 1 time.
+JAV016 Parked in spot 9
+JAV010 Departed from spot 6, vehicle was moved 0 times.
+JAV002 Departed from spot 1, vehicle was moved 4 times.
+JAV016 Departed from spot 7, vehicle was moved 0 times.
+JAV014 Cannot depart beacause it was never parked in FIU garage.
+JAV009 Departed from spot 4, vehicle was moved 2 times.
+JAV003 Departed from spot 1, vehicle was moved 6 times.
+JAV008 Departed from spot 2, vehicle was moved 3 times.
+JAV007 Departed from spot 1, vehicle was moved 4 times.
+JAV012 Departed from spot 2, vehicle was moved 1 time.
+JAV011 Departed from spot 1, vehicle was moved 2 times.
